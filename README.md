@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, my name is Quinn. I'm a data science student interested in building the skills and technical foundation needed to do data and operations consulting to help businesses scale. I'm a very systems oriented person with a love for statistics, so I also enjoy finding practical applications for data science in my day-to-day life.
 
 <!--
 **qbohlen/qbohlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
